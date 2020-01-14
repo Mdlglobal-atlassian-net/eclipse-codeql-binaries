@@ -1,5 +1,5 @@
 # CodeQL for Eclipse
-This repository contains [binary releases](https://github.com/Semmle/eclipse-codeql-binaries/releases) of the Eclipse plugin for writing and running CodeQL queries. **Note: the use of CodeQL for Eclipse requires a separate license agreement with GitHub.** For more information on how to use this product, please refer to [the online help](https://help.semmle.com/ql-for-eclipse/Content/WebHelp/home-page.html).
+This repository contains [binary releases](https://github.com/Semmle/eclipse-codeql-binaries/releases) of the Eclipse plugin for writing and running CodeQL queries. For more information on how to use this product, please refer to [the online help](https://help.semmle.com/ql-for-eclipse/Content/WebHelp/home-page.html).
 
 ## License
 By downloading, you agree to the [GitHub CodeQL Terms & Conditions](https://securitylab.github.com/tools/codeql/license).
